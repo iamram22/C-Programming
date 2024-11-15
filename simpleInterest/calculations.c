@@ -1,11 +1,13 @@
 #include <stdio.h>
-#include <math.h>
-int main() {
-    double principal, rate, time;
-    scanf("%lf%lf%lf", &principal,&rate,&time);
-    // Write solution code below
 
-    double simpleInterest = (principal * rate * time)/100;
-    printf("%.2lf", simpleInterest);
-    return 0;
+int main(){
+  float p = 34.1;
+  int r = 8;
+  int t = 5;
+
+  float sI = (p*r*t)/100;
+
+  printf("The simple interest is %f", sI);
+
+  return 0;
 }
