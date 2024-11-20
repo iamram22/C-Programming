@@ -12,7 +12,7 @@ int main(){
   int z = x * y;
   int aa, bb;
   /* int bb * aa = i; //this is not valid syntax. 
-     int ab = a^b; //this doesn't work like an exponent
+     int ab = a^b; //this doesn't work like an exponent`
   */
-  
+  return 0;
 }
