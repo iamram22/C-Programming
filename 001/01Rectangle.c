@@ -11,3 +11,5 @@ int main(){
   printf("The area of the rectangle is : %d", length * breadth);
   return 0;
 }
+
+//calculate also for Eq Triangle
