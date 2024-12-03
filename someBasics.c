@@ -9,6 +9,4 @@ int main(void){
   x = -a * b / -c * b;
   printf("a = %d, b = %d, c = %d, x = %d", a, b, c, x);
   return 0;
-
-  
 }
